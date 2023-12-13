@@ -1,0 +1,7 @@
+*.ipynb
+*.hdf5
+__pycache__
+*.pyc
+*.pickle
+*.csv
+tmp
