@@ -55,7 +55,7 @@ Ascend.ai leverages a robust technology stack to deliver its AI-driven features:
 
 -   **Frontend**: Next.js and Tailwind CSS for a responsive and user-friendly interface.
 -   **Database**: MongoDB for data storage and Prisma for database connections.
--   **Facial Expression Analysis**: OpenCV, Dlib, and Facial Expression Recognition models (e.g., FER, AffectNet).
+-   **Facial Expression Analysis**: OpenCV, Dlib, and Facial Expression Recognition models (e.g., CNNs, ResNet).
 -   **Tone and Pitch Analysis**: Speech recognition libraries (e.g., WebRTC VAD, PyAudio) and audio processing libraries (e.g., librosa).
 -   **Chatbot**: Dialogflow or Rasa for Natural Language Processing (NLP) and chatbot development.
 -   **Video Recording and Playback**: WebRTC for recording video and Video.js/Plyr for video playback with timestamps.
